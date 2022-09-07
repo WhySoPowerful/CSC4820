@@ -1,6 +1,0 @@
-1. Create third person controller.
-2. Create coin - rotate and destroy when player collides.
-3. When the player collides with the obstacles, health decreases.
-4. Create pause menu, restart menu, exit menu, create game over.
-5. Create game map (UI).
-6. Player score system and health system.
